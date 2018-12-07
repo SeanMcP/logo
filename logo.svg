@@ -144,9 +144,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57250001"
-     inkscape:cx="264.59301"
-     inkscape:cy="352.58037"
+     inkscape:zoom="0.40481864"
+     inkscape:cx="55.701002"
+     inkscape:cy="281.70818"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -757,7 +757,7 @@
     </g>
     <rect
        y="452.36215"
-       x="600"
+       x="620"
        height="600"
        width="600"
        id="rect4660"
@@ -5410,7 +5410,7 @@ lqjgj+9feL4E2/cv3LYNz1fH6+X4/N7wzz+e+D8ckXkkMdaO/wAAAABJRU5ErkJggg==
     </g>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 600,452.36216 0,300 a 300,300 0 0 1 300,-300 l -300,0 z m 300,0 a 300,300 0 0 1 300,300 l 0,-300 -300,0 z m 300,300 A 300,300 0 0 1 900,1052.3622 l 300,0 0,-300.00004 z M 900,1052.3622 A 300,300 0 0 1 600,752.36216 l 0,300.00004 300,0 z"
+       d="m 620,452.36216 0,300 a 300,300 0 0 1 300,-300 l -300,0 z m 300,0 a 300,300 0 0 1 300,300 l 0,-300 -300,0 z m 300,300 A 300,300 0 0 1 920,1052.3622 l 300,0 0,-300.00004 z M 920,1052.3622 A 300,300 0 0 1 620,752.36216 l 0,300.00004 300,0 z"
        id="path4824"
        inkscape:connector-curvature="0" />
     <g
